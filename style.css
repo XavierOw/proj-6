@@ -1,0 +1,18 @@
+.heading button
+{
+    float:right;
+    border:1px solid snow;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display:inline;
+}
+#start ,#status, #reset
+{
+    font-size: 22px;
+}
